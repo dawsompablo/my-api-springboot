@@ -6,9 +6,13 @@
 - Tratamento de Exceções
 
 <table style="text-align: center">
-    <tr>Aplicação cliente</tr>
-    <tr>(liga ao)</tr>
-    <tr>Controlador rest</tr>
+    <tr>
+        <td>Aplicação cliente</td>
+    </tr>
+    <tr>
+        <td>(liga ao)</td>
+    </tr>
+    <tr><td>Controlador rest</td></tr>
     <tr>
         <td>
             Camada de serviço<br>
